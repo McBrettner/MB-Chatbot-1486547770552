@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: MB-Chatbot
+  host: MB-Chatbot
+  disk_quota: 1024M
